@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am biomedical engineer with interest in software.
+
+You can reach me on [email](eng.ahmedhussein89@gmail.com), [twitter](https://twitter.com/n71_ah), [linkedin](https://www.linkedin.com/in/abdelaalahmed/)
+
 <!--
 **wow2006/wow2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
