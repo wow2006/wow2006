@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wow2006&theme=dark" />
+</p>
+
 I am biomedical engineer with interest in software.
 
 - 🔭 I’m currently working on Luxoft
